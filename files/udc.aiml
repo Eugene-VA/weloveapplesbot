@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Hey</pattern>
+    <template>Hey! Would you like to know more about apples?</template>
+  </category>
+  <category>
+    <pattern>Hi</pattern>
+    <template>Hi! Would you like to know more about apples?</template>
+  </category>
+  <category>
+    <pattern>Hello</pattern>
+    <template>Hello! Would you like to know more about apples?</template>
+  </category>
+  <category>
+    <pattern>Hai</pattern>
+    <template>Hi! Would you like to know more about apples?</template>
+  </category>
+  <category>
+    <pattern>Good morning</pattern>
+    <template>Good morning! Would you like to know more about apples?</template>
+  </category>
+  <category>
+    <pattern>Good afternoon</pattern>
+    <template>Good afternoon! Would you like to know more about apples?</template>
+  </category>
+  <category>
+    <pattern>Good evening</pattern>
+    <template>Good evening! Would you like to know more about apples?</template>
+  </category>
+  <category>
+    <pattern>Yes</pattern>
+    <template>Ask away!</template>
+  </category>
+  <category>
+    <pattern>Good night</pattern>
+    <template>Good night! Hope you eat more apples!</template>
+  </category>
+  <category>
+    <pattern>Apples</pattern>
+    <template>Apples are delicious, versatile, and one of the most consumed fruits in the world. They can be eaten by themselves as a healthy snack or incorporated into tasty recipes!</template>
+  </category>
+  <category>
+    <pattern>How * apples are grown</pattern>
+    <template>Deciduous trees are plants that shed fruit or leaves when they reach maturity. Half of all deciduous fruit trees used for fruit production are apple trees. The countries that produce most of these trees are China, the United States, Poland, Italy, and Turkey.</template>
+  </category>
+  <category>
+    <pattern>How * apples grown</pattern>
+    <template>Apples are usually either grown in an open site, such as in a lawn, or trained flat against a wall or fence. Trees grafted on dwarfing rootstock can also be grown in a large pot. The best time to plant is while the tree is dormant, from autumn to spring.</template>
+  </category>
+  <category>
+    <pattern>How many apple varieties *</pattern>
+    <template>Even though the crab apple is the only variety native to North America, thousands of types of apples are grown in the United States. Red Delicious, Golden Delicious, Braeburn, McIntosh, Rome, Granny Smith, and Gala are a few of the most popular varieties grown in the U.S. My favorite is the Fuji apple!</template>
+  </category>
+  <category>
+    <pattern>What are apples</pattern>
+    <template>Apples are delicious, versatile, and one of the most consumed fruits in the world. They can be eaten by themselves as a healthy snack or incorporated into tasty recipes!</template>
+  </category>
+  <category>
+    <pattern>Are apples sour</pattern>
+    <template>Yes! Apple juice, apple flesh, and apple cider vinegar all have a high malic acid content. This beneficial compound is helpful in treating conditions such as fibromyalgia, chronic fatigue syndrome, and gallstones.</template>
+  </category>
+  <category>
+    <pattern>Do apples have fiber</pattern>
+    <template>One average sized apple contains almost twice the amount of fiber as one serving of a fiber supplement. It also tastes a lot better, too. Why bother with supplements when you can eat a delicious apple?</template>
+  </category>
+  <category>
+    <pattern>Thank you</pattern>
+    <template>You're welcome! An apple a day keeps the doctor away!</template>
+  </category>
+  <category>
+    <pattern>What are you</pattern>
+    <template>Are you asking about me? Because I'm applesbot and we love apples! Ask away!</template>
+  </category>
+</aiml>
